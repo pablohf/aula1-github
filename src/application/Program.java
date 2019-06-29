@@ -10,6 +10,7 @@ public class Program {
 
 		System.out.println("Hello world!");
 		System.out.println("Bom dia");
+		System.out.println("Boa Tarde!");
 		
 		sc.close();
 
